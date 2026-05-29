@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "홍대 K-뷰티 메가 페스타",
     "description": "",
-    "home_page_url": "https://cyber-user-who.github.io/biz-web",
-    "feed_url": "https://cyber-user-who.github.io/biz-web/feed.json",
+    "home_page_url": "https://hkmf.netlify.app",
+    "feed_url": "https://hkmf.netlify.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "user"
     },
     "items": [
         {
-            "id": "https://cyber-user-who.github.io/biz-web/123.html",
-            "url": "https://cyber-user-who.github.io/biz-web/123.html",
+            "id": "https://hkmf.netlify.app/123.html",
+            "url": "https://hkmf.netlify.app/123.html",
             "title": "123",
             "summary": "123",
             "content_html": "<p>123</p>",
