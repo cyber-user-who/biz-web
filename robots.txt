@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cyber-user-who.github.io/biz-web/sitemap.xml

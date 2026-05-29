@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>business</title>
+    <link href="https://cyber-user-who.github.io/biz-web/feed.xml" rel="self" />
+    <link href="https://cyber-user-who.github.io/biz-web" />
+    <updated>2026-05-29T21:28:11+09:00</updated>
+    <author>
+        <name>user</name>
+    </author>
+    <id>https://cyber-user-who.github.io/biz-web</id>
+
+    <entry>
+        <title>123</title>
+        <author>
+            <name>user</name>
+        </author>
+        <link href="https://cyber-user-who.github.io/biz-web/123.html"/>
+        <id>https://cyber-user-who.github.io/biz-web/123.html</id>
+
+        <updated>2026-05-29T21:28:11+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    123
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>123</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
