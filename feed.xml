@@ -3,30 +3,10 @@
     <title>홍대 K-뷰티 메가 페스타</title>
     <link href="https://hkmf.netlify.app/feed.xml" rel="self" />
     <link href="https://hkmf.netlify.app" />
-    <updated>2026-05-29T21:28:11+09:00</updated>
+    <updated>1970-01-01T09:00:00+09:00</updated>
     <author>
         <name>user</name>
     </author>
     <id>https://hkmf.netlify.app</id>
 
-    <entry>
-        <title>123</title>
-        <author>
-            <name>user</name>
-        </author>
-        <link href="https://hkmf.netlify.app/123.html"/>
-        <id>https://hkmf.netlify.app/123.html</id>
-
-        <updated>2026-05-29T21:28:11+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    123
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>123</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
